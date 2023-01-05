@@ -163,7 +163,7 @@ const Projects = () => {
         </motion.div>
         <motion.div className="p--item" variants={item}>
           <img src={movieapp} alt="movie app" />
-          <h2 className="p--item__header">Portfolio</h2>
+          <h2 className="p--item__header">Movie Trailer Search</h2>
           <p className="p--item__text">
             A movie and movie trailer search app developed using tmdb api, where users can search for any movie and also watch the trailer. Built using Reactjs and Context Api
           </p>
