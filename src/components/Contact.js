@@ -130,7 +130,7 @@ const Contact = () => {
             to you as soon as I can.
           </p>
           <p>
-            I am also available for collaborations. Reach out and let's
+            I'm also available for collaborations. Reach out and let's
             build something fun.
           </p>
           <p>Also available via -</p>

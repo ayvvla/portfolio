@@ -49,7 +49,7 @@ const About = () => {
             I am Ayoola Michael, currently a customer service rep with a reputable fintech in Nigeria but steadily transitioning into tech. Having always had a passion for tech and programming ( studied computer science back in Uni ), I enrolled into the frontend developement track of <span>Alt School</span> early 2022. I've since then been learn many new technologies, built amazing web applications and worked in a team of amazing people
           </p>
           <p>
-            I'm currently working on various frontend projects to improve and hone my skillset. I'm an avid learner, and a goal driven and passionate web developer capable of bring web designs to life. Currently open to internship, junior frontend roles and also freelance work.
+            I'm currently working on various frontend projects to improve and hone my skillset. I'm an avid learner - a goal driven and passionate web developer capable of bringing web designs to life. Currently open to internship, junior frontend roles and also freelance work.
           </p>
         </motion.div>
       </section>
